@@ -11,7 +11,7 @@ Clone the project to your machine.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the app.
 
 ```
 Node.js
